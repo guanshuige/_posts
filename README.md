@@ -3,7 +3,7 @@
 1. 每篇文章务必采用markdown标记语言编写
 2. 每篇文章最前面需要加入以下因素：title、categories、tags  
 
-> 样例：
+> **样例**：
 ```
 ---
 title: 文章标题
