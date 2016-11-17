@@ -1,4 +1,6 @@
-# _posts
+---
+title: 编写博客注意事项
+---
 ## 这里具体介绍如何写文章与github结合。
 1. 每篇文章务必采用markdown标记语言编写
 2. 每篇文章最前面需要加入以下因素：title、categories、tags  
@@ -8,7 +10,7 @@
 ---
 title: 文章标题
 categories:
-- author
+- ronger 
 - git
 - 多帐号
 tags:
