@@ -1,5 +1,6 @@
 ---
 title: 编写博客注意事项
+comments: false
 ---
 ## 这里具体介绍如何写文章与github结合。
 1. 每篇文章务必采用markdown标记语言编写
